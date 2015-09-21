@@ -1,0 +1,27 @@
+{
+  "name": "s3-upload-test",
+  "version": "0.0.0",
+  "authors": [
+    "Julius Cebreros <me@juliuscebreros.com>"
+  ],
+  "description": "For testing s3 uploads",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "s3"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "aws-sdk": "~2.2.3",
+    "jquery": "~2.1.4"
+  }
+}
